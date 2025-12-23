@@ -1,3 +1,4 @@
 my name is kshitij patiyal
 changing in remote repo
-#another editor add some changes 
+#another editor add some changes
+adding my changes after pulling, you add yours whenever you feel like it
